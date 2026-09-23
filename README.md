@@ -6,7 +6,7 @@ An interactive data analytics dashboard for analysing the **Amazon India Books B
 
 ## Dataset
 
-**Source:** `archive(dataset).zip` → `Amazon_Books_Scraping/`
+**Source:** https://www.kaggle.com/datasets/chhavidhankhar11/amazon-books-dataset
 
 | File | Contents |
 |---|---|
